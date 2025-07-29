@@ -62,6 +62,7 @@ FEATURE_EXTRACTOR_MAPPING_NAMES = OrderedDict(
         ("encodec", "EncodecFeatureExtractor"),
         ("flava", "FlavaFeatureExtractor"),
         ("gemma3n", "Gemma3nAudioFeatureExtractor"),
+        ("minigpt4o", "Minigpt4oAudioFeatureExtractor"),
         ("glpn", "GLPNFeatureExtractor"),
         ("granite_speech", "GraniteSpeechFeatureExtractor"),
         ("groupvit", "CLIPFeatureExtractor"),

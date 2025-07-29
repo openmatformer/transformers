@@ -386,6 +386,10 @@ MODEL_MAPPING_NAMES = OrderedDict(
         ("yoso", "YosoModel"),
         ("zamba", "ZambaModel"),
         ("zamba2", "Zamba2Model"),
+        ("minigpt4o", "Minigpt4oModel"),
+        ("minigpt4o_audio", "Minigpt4oAudioEncoder"),
+        ("minigpt4o_text", "Minigpt4oTextModel"),
+        ("minigpt4o_vision", "TimmWrapperModel"),
     ]
 )
 
